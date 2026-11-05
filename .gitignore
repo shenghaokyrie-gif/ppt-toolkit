@@ -1,0 +1,5 @@
+﻿__pycache__/
+*.pyc
+out/render/
+out/_render_tmp.pptx
+*.log
